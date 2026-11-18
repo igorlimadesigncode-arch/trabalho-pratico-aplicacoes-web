@@ -14,18 +14,3 @@ Projeto composto por três exercícios independentes, feitos com HTML, JavaScrip
 1. Extraia o ZIP e abra a pasta `planejamento-desenvolvimento-web` no VS Code.
 2. Abra cada HTML no navegador. Para a página de usuários, prefira iniciar um servidor local: no terminal da pasta, execute `python -m http.server 8000` e acesse `http://localhost:8000/usuarios.html`.
 3. Bootstrap e Vue são carregados por CDN; é necessária conexão com a internet para esses recursos. A página de usuários também consulta `https://reqres.in/api/users?per_page=10`. Se a API não responder, a página apresenta usuários demonstrativos e informa isso na própria tela.
-
-## GitHub
-
-Crie um repositório vazio no GitHub e, no terminal aberto nesta pasta, execute:
-
-```bash
-git init
-git add .
-git commit -m "Entrega do trabalho de aplicações web interativas"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-git push -u origin main
-```
-
-Substitua a URL pela URL do seu repositório. Depois compartilhe o link da página do repositório na Sala de Aula Virtual, em **Trabalhos**.
