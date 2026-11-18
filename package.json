@@ -1,0 +1,9 @@
+{
+  "name": "planejamento-desenvolvimento-web-interativas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercícios de JavaScript, DOM, JSON, Bootstrap e Vue.js",
+  "scripts": {
+    "serve": "python -m http.server 8000"
+  }
+}
